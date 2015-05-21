@@ -1,3 +1,3 @@
-# BolScript
+# BolScript BolScript
 byGayGay
-push
+push BolScript
